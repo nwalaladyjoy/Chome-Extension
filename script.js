@@ -33,17 +33,13 @@ wrapper();
 var Quotes=[
         "Change the world by being yourself.",
         "Never regret anything that made you smile.",
-        "Every moment is a fresh beginning.",
-        "There's bravery in being soft.",
         "If you can Dream it, you can Do it.",
         "Don't let your struggle be your Identity.",
         "Don't let someone's mistake make you do mistakes.",
         "Life is 10% what happens to you and 90% how you react to it.",
         "Change your thoughts, and you change your world.",
         "All our dreams can come true if we have the courage to pursue them.",
-        "Success is a journey not a destination.",
-        "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-        "It always seems impossible until it's done."];
+        "What you get by achieving your goals is not as important as what you become by achieving your goals."];
 
 // QUOTES FUNCTION
 function randomFunction(){
